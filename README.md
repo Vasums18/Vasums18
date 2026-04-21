@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying engineering
+I am final year engineering
 
 
 ## 🌐 Socials:
