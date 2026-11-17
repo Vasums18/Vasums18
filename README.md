@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Final-year Engineering student passionate about **Software Development, Cloud, and DevOps**.  
+Engineering Graduate passionate about **Software Development, Cloud, and DevOps**.  
 Interested in building scalable applications and deploying them using modern cloud and automation tools.
 
 ---
