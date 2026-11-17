@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Engineering Graduate passionate about **Software Development, Cloud, and DevOps**.  
+Engineering Graduate passionate about **Software Development, Cloud & DevOps, Data Analyst**.  
 Interested in building scalable applications and deploying them using modern cloud and automation tools.
 
 ---
